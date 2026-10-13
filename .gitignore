@@ -1,0 +1,29 @@
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+
+# Model Weights & Saved Checkpoints (large files)
+*.pth
+*.pt
+*.onnx
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+.DS_Store
+
+# Logs & Outputs
+*.log
+
+
+data/
